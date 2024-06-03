@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Django
+db.sqlite3
+media/
+
+# Node
+node_modules/
+build/
+dist/
+
+# Logs
+logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MacOS
+.DS_Store
